@@ -7,8 +7,6 @@ import itertools
 def foodclick():
     labelText.set('Restaurants you may like : ')
     #label.config(bg='red')
-    #----------------------------------------------------------------
-    #----------------------------------------------------------------
     
     support = int(40)
     confidence = int(60)
@@ -129,8 +127,6 @@ def foodclick():
         m = []
         L= frequent_itemsets()
         #print("---------------------ASSOCIATION RULES------------------")
-        #print("RULES \t SUPPORT \t CONFIDENCE")
-        #print("--------------------------------------------------------")
         for list in L:
             for l in list:
                 length = len(l)
@@ -160,14 +156,9 @@ def foodclick():
                             num += 1  
 
     generate_association_rules()   
-    #print("--------------------------------------------------------")
 
     
-    #----------------------------------------------------------------
-    #----------------------------------------------------------------
-    
-    
-    
+        
 def beachclick():
     labelText.set(' Beaches to explore :')
     #label.config(bg='yellow')
@@ -293,8 +284,6 @@ def beachclick():
         m = []
         L= frequent_itemsets()
         #print("---------------------ASSOCIATION RULES------------------")
-        #print("RULES \t SUPPORT \t CONFIDENCE")
-        #print("--------------------------------------------------------")
         for list in L:
             for l in list:
                 length = len(l)
@@ -324,7 +313,6 @@ def beachclick():
                             num += 1  
 
     generate_association_rules()   
-    #print("--------------------------------------------------------")
 
     
     #----------------------------------------------------------------
@@ -457,8 +445,6 @@ def monumclick():
         m = []
         L= frequent_itemsets()
         #print("---------------------ASSOCIATION RULES------------------")
-        #print("RULES \t SUPPORT \t CONFIDENCE")
-        #print("--------------------------------------------------------")
         for list in L:
             for l in list:
                 length = len(l)
@@ -488,7 +474,6 @@ def monumclick():
                             num += 1  
 
     generate_association_rules()   
-    #print("--------------------------------------------------------")
 
     
     #----------------------------------------------------------------
@@ -506,7 +491,7 @@ labelText.set(' ')
 
 Label(root, text="Welcome to GOA Tourism").pack()
 Label(root, text="      ").pack()
-Label(root, text="Goa – A Perfect Holiday Destination").pack()
+Label(root, text="Goa Â– A Perfect Holiday Destination").pack()
 Label(root, text="      ").pack()
 Label(root, text="Tourists Reccomendations Portal").pack()
 Label(root, text="      ").pack()
