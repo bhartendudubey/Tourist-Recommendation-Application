@@ -1,0 +1,20 @@
+BasilicaBomJesus FortAgnada DudhsagarFalls churchInmamulate ChaporaFort mambossFort secathedral Tiracol 
+BasilicaBomJesus FortAgnada DudhsagarFalls ChaporaFort SriMahadevaTemple HolySpiritChurch AzaadMaidan
+FortAgnada DudhsagarFalls churchInmamulate SaligoChurch ChaporaFort 
+SaligoChurch FortAguada AjobaTempleKeri SriMahadevaTemple secathedral mambossFort
+FortAgnada SaligoChurch FortAguada AjobaTempleKeri 
+DudhsagarFalls SaligoChurch FortAguada AjobaTempleKeri
+BasilicaBomJesus SaligoChurch AjobaTempleKeri
+BasilicaBomJesus DudhsagarFalls FortAgnada SaligoChurch AjobaTempleKeri
+AjobaTempleKeri BasilicaBomJesus churchInmamulate
+DudhsagarFalls BasilicaBomJesus FortAguada
+HolySpiritChurch mambossFort AzaadMaidan secathedral
+HolySpiritChurch SriMahadevaTemple Tiracol 
+mambossFort AzaadMaidan secathedral
+SriMahadevaTemple HolySpiritChurch secathedral
+ChaporaFort churchInmamulate AzaadMaidan
+mambossFort secathedral ChaporaFort
+ChaporaFort secathedral HolySpiritChurch AzaadMaidan
+churchInmamulate DudhsagarFalls secathedral
+SriMahadevaTemple secathedral ChaporaFort BasilicaBomJesus FortAgnada 
+FortAgnada ChaporaFort DudhsagarFalls churchInmamulate
